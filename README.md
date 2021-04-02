@@ -10,3 +10,5 @@
 
 [Ownership](https://github.com/LLLeon/rust-notes/blob/main/03.Ownership.md)
 
+[References and Borrowing](https://github.com/LLLeon/rust-notes/blob/main/04.ReferencesandBorrowing.md)
+
