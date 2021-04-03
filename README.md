@@ -12,3 +12,4 @@
 
 [References and Borrowing](https://github.com/LLLeon/rust-notes/blob/main/04.ReferencesandBorrowing.md)
 
+[Slices](https://github.com/LLLeon/rust-notes/blob/main/05.Slices.md)
