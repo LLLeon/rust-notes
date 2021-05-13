@@ -13,3 +13,7 @@
 [References and Borrowing](https://github.com/LLLeon/rust-notes/blob/main/04.ReferencesandBorrowing.md)
 
 [Slices](https://github.com/LLLeon/rust-notes/blob/main/05.Slices.md)
+
+[Structs](https://github.com/LLLeon/rust-notes/blob/main/06.Structs.md)
+
+[Enums](https://github.com/LLLeon/rust-notes/blob/main/07.Enums.md)
